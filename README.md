@@ -17,3 +17,9 @@ https://vdomarkas.com
 # Latest project
 
 http://automarket-vdomarkas.herokuapp.com/
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vidomarkas&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidomarkas&layout=compact&theme=radical)
