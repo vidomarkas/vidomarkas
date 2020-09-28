@@ -1,7 +1,3 @@
-Hi, I'm Viktoras
-
-Obsessed with self-improvement and committed to raise the bar for my work with every project.
-
 HTML5, CSS3, SASS, JavaScript, React, Redux, Gatsby, NodeJS, Express, MongoDB
 
 ### Linked In
