@@ -1,4 +1,4 @@
-HTML5, CSS3, SASS, JavaScript, React, Redux, Gatsby, NodeJS, Express, MongoDB
+HTML5, CSS3, SASS, JavaScript, React, Redux
 
 ### Linked In
 
