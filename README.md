@@ -4,9 +4,6 @@ HTML5, CSS3, SASS, JavaScript, React, Redux
 
 https://www.linkedin.com/in/viktoras-domarkas/
 
-### Portfolio
-
-https://vdomarkas.com
 
 ### Latest project
 
