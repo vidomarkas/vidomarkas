@@ -1,4 +1,4 @@
-HTML5, CSS3, SASS, JavaScript, React, Redux
+HTML5, CSS3, SASS, JavaScript, React, Redux, PHP, WordPress
 
 ### Linked In
 
