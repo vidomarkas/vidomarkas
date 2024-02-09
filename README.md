@@ -1,4 +1,7 @@
-HTML5, CSS3, SASS, JavaScript, React, Redux, PHP, WordPress
+HTML5
+CSS3, SASS, Tailwind CSS, Foundation CSS
+JavaScript, React, Redux, Next JS
+PHP, WordPress Gutenberg
 
 ### Linked In
 
