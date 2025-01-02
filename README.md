@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m a passionate web developer focused on crafting perfo
 
 ## 📚 What I’m Currently Up To  
 
-- ✨ Expanding my expertise in headless CMS solutions and serverless architecture.  
+- ✨ Expanding my expertise in headless CMS solutions. 
 - 🛠 Building responsive and interactive components with Next.js and Tailwind CSS.  
 
 ---
