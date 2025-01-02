@@ -13,7 +13,8 @@ Welcome to my GitHub! I’m a passionate web developer focused on crafting perfo
 - **Frameworks & Libraries**: React, Redux, Next.js  
 
 ### **Back-End Development**  
-- **Languages**: PHP  
+- **Languages**: PHP, Node.js
+- **Frameworks & Libraries**: Express.js  
 - **CMS Platforms**: WordPress (Gutenberg), Sanity  
 
 ---
