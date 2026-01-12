@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Viktoras Domarkas  
 ### 🎯 WordPress Developer | 🧩 Gutenberg Specialist | ⚡ Performance Optimizer  
 
-Welcome to my GitHub! I'm a WordPress developer with 4+ years of experience building custom block themes, plugins, and performant client solutions at a web agency.
+Welcome to my GitHub! I'm a WordPress developer with 5+ years of experience building custom block themes, plugins, and performant client solutions at a web agency.
 
 ---
 
